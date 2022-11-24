@@ -40,3 +40,5 @@ in other hand i want to help others who want to learn computer vision.
 ...
 
 ok, let's start.
+
+complete in as soon as possible.
