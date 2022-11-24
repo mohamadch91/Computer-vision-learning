@@ -45,4 +45,4 @@ complete as soon as possible.
 
 feel free to contact me if you have any question.
 or you can create an issue to ask me.
-**also you can create a pull request to help me improve this repo in other fields like Machine Learning, Deep Learning, NLP, etc.**
+**also you can create a pull request to help me improve this repo  or in other fields like Machine Learning, Deep Learning, NLP, etc.**
