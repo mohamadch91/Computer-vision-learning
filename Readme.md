@@ -41,4 +41,8 @@ in other hand i want to help others who want to learn computer vision.
 
 ok, let's start.
 
-complete in as soon as possible.
+complete as soon as possible.
+
+feel free to contact me if you have any question.
+or you can create a issue to ask me.
+also you can create a pull request to help me improve this repo in other fields like Machine Learning, Deep Learning, NLP, etc.
