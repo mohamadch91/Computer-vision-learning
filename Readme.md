@@ -42,7 +42,9 @@ in other hand i want to help others who want to learn computer vision.
 ok, let's start.
 
 complete as soon as possible.
+## Contribution
 
 feel free to contact me if you have any question.
 or you can create an issue to ask me.
+<br/>
 **also you can create a pull request to help me improve this repo  or in other fields like Machine Learning, Deep Learning, NLP, etc.**
